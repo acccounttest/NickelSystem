@@ -18,3 +18,5 @@ from lib.Binding import Binding as Binding
 from os import path
 
 #Script comes here , only import steps are a little abstract waiting the code.
+import winshell
+import send2trash
